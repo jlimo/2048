@@ -1,0 +1,17 @@
+creating the game 2048 using javascript 
+
+first action will be to create the game board making a 4x4 board
+
+when starting the game the first blocks will drop and not overlap each other if the block is taken
+
+making sure the blocks only combine when they have same value and player moves blocks in direction where blocks collide
+
+once block combines they double in value
+
+they do not combine if blocks that colide into each other have different values
+
+if block has no space in the direction the player moves it will not move unless able to combin
+
+each move player makes will drop more blocks with value of 2
+
+player can restart game when wanted and game keeps score of highest number the player was able to get
